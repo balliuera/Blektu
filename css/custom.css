@@ -1,0 +1,28 @@
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.card{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    display: block;
+    padding: 3px;
+    margin-left: 3px;
+    float: left;
+}
+a{
+    color: white;
+}
+
+.sidebari{
+    width: 200px;
+    height: 100%;
+    display: block;
+    float: left;
+    margin: 0 auto;
+    border-right: 1px #8d6e63 solid;
+    margin-right: 3px ;
+}
